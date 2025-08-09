@@ -125,3 +125,6 @@ Scalability – APIs can handle large amounts of data and integrate with multipl
 Conclusion
 This task successfully demonstrated the process of fetching live data through API integration, processing it into a usable format, and creating visualizations that transform numbers into stories. The skills learned here API communication, data processing, and visualization—are highly valuable in modern data analytics, business intelligence, and application development. By mastering these steps, developers and analysts can create powerful tools for real-time monitoring, decision-making, and predictive analysis.
 
+#OUTPUT#
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4f49296c-8a6a-49c0-b0d7-ce04eaa8da37" />
